@@ -6,7 +6,7 @@
 ### <div align="center">I'm Jesser, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [my professional proftolio](https://github.com/bedouijesser/profile) (there's some awesome stuff for JS enthusiasts)  
+- 🔭 I’m currently working on [my professional proftolio](https://github.com/bedouijesser/portfolio) (there's some awesome stuff for JS enthusiasts)  
   
 
 - 🌱 I’m currently learning Three.js and Web assembly  
