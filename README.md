@@ -13,13 +13,11 @@
   
 
 - ❓ Ask me about anything related to MEAN stack and related technologies  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
-
+<img src="./github-user-contribution.svg" style="width: 100%" />
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
