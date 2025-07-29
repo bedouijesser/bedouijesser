@@ -56,34 +56,6 @@
 
 <br/>  
 
-## 🚀 Entrepreneurial Journey  
-
-**SILKDEV** (June 2022 - Present)  
-*Founder & CEO*  
-- Created innovative subscription-based web development service  
-- Flat monthly rate for unlimited design/development requests  
-- Specializing in Framer, UI/UX, and e-commerce solutions  
-
-**Appnester** (July 2022 - Dec 2023)  
-*Co-Founder & General Manager*  
-- Grew client base by 50% in first month  
-- Managed full operations including finance and product development  
-
-**BlockChain Arabia** (May 2022 - Apr 2023)  
-*Software Developer*  
-- Built blockchain platform for secure organizational data sharing  
-- Tech stack: Angular, NestJS, Docker  
-
-<br/>  
-
-## 📚 Education & Certifications  
-- **ESPRIT**: Engineer's degree, Computer Engineering (2021-2022)  
-- **ISLAIB**: Applied License, Web Development (2018-2021)  
-- Angular Expert Certification (Level 3)  
-- TOEIC® Listening and Reading Certified  
-
-<br/>  
-
 ## 🌐 Connect With Me  
 <div align="center">
   <a href="https://linkedin.com/in/jesser-bedoui" target="_blank">
