@@ -12,9 +12,6 @@
 
 <br/>  
 
-<div align="center">
-  <img src="./github-user-contribution.svg" alt="My GitHub contributions" style="width: 100%" />
-</div>
 
 ## 🛠️ My Tech Stack  
 
